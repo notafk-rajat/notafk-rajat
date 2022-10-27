@@ -84,3 +84,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notafk-rajat&langs_count=10&show_icons=true&theme=tokyonight&locale=en&layout=compact"/>
 </p>
  
+
+[![@_rajat's Holopin board](https://holopin.me/_rajat)](https://holopin.io/@_rajat)
