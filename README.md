@@ -1,7 +1,7 @@
 <h1 align="center">  Hello, I'm Rajat Sharma  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Open+Source+Enthusiast;Learning+In+Public;Figuring+Out+DevOps&center=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Open+Source;Learning+In+Public;Figuring+Out+DevOps&center=true" alt="Typing SVG">
 </p>
 
 <h3 align="center">Connect with me:</h3>
