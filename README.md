@@ -6,7 +6,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/rajatstwt" target="blank"><img align="center" src="https://i.pinimg.com/originals/b8/c8/46/b8c846a25866985a5719049b9f0c5890.png" alt="twt" height="30" width="40" /></a>
+<a href="https://twitter.com/rajatstwt" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8Z5b1G6d3H7H7_sign-up-using-twitter-transparent-background-twitter-logo%2F&psig=AOvVaw3zT_kxhc0saVq85ytwpAtk&ust=1680848736405000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjcj9HPlP4CFQAAAAAdAAAAABAJ" alt="twt" height="30" width="40" /></a>
   
 <a href="https://www.linkedin.com/in/rajat-sharma-33242b204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 
